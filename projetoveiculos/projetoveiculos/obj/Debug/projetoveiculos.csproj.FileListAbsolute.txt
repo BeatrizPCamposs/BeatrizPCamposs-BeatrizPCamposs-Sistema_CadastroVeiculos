@@ -1,0 +1,13 @@
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\bin\Debug\projetoveiculos.exe.config
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\bin\Debug\projetoveiculos.exe
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\bin\Debug\projetoveiculos.pdb
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.csproj.AssemblyReference.cache
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.frmhome.resources
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.frmcadcarro.resources
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.Properties.Resources.resources
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.csproj.GenerateResource.cache
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.csproj.CoreCompileInputs.cache
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.exe
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.pdb
+C:\Users\bialp\source\repos\projetoveiculos\projetoveiculos\obj\Debug\projetoveiculos.frmcadcaminhao.resources
